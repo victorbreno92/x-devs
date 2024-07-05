@@ -11,4 +11,4 @@ e ler mais sobre eles
 
 ### Hospedagem
 
-Você abrir a página <a herf="https://victorbreno92.github.io/x-devs/"> Clicando aqui </a> 
+Você abrir a página <a href="https://victorbreno92.github.io/x-devs/">Clicando aqui</a> 
