@@ -10,6 +10,9 @@ e ler mais sobre eles
 -CSS
 -JavaScript
 
-### Hospedagem
+## Vídeo de apresentação
+<img src="">
+
+## Hospedagem
 
 Você pode abrir a página <a href="https://victorbreno92.github.io/x-devs/">Clicando aqui</a> 
